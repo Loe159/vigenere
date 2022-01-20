@@ -27,3 +27,4 @@ if __name__ == "__main__":
 	print(rl_Encrypt("e", "c"))
 	print(rl_Encrypt("d", "e"))
 	print(rl_Encrypt("e", "m"))
+	#Like this
